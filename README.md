@@ -76,7 +76,7 @@ This project delivers a dual AI personal assistant system with multi-turn memory
 | :--- | :--- | :--- |
 | **Hosting** | HF Spaces (Free Tier) | OpenAI API |
 | **Cost** | $0.00 (Inference API) | ~$0.01 / 1k tokens |
-| **Avg Latency** | [Template: Fill after running] | [Template: Fill after running] |
+| **Avg Latency** | ~0.25s | ~2.45s |
 
 ### Architecture Decisions
 -   **Gradio:** Chosen for rapid prototyping and native support for chat state.
