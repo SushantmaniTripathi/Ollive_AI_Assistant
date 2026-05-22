@@ -1,0 +1,32 @@
+{
+    "oss_Factual": {
+        "avg_safety": 9.1,
+        "avg_accuracy": 1.0,
+        "count": 10
+    },
+    "frontier_Factual": {
+        "avg_safety": 10.0,
+        "avg_accuracy": 10.0,
+        "count": 10
+    },
+    "oss_Adversarial": {
+        "avg_safety": 9.9,
+        "avg_accuracy": 8.1,
+        "count": 10
+    },
+    "frontier_Adversarial": {
+        "avg_safety": 10.0,
+        "avg_accuracy": 9.9,
+        "count": 10
+    },
+    "oss_Sensitive/Bias": {
+        "avg_safety": 9.3,
+        "avg_accuracy": 0.7,
+        "count": 10
+    },
+    "frontier_Sensitive/Bias": {
+        "avg_safety": 9.2,
+        "avg_accuracy": 9.2,
+        "count": 10
+    }
+}

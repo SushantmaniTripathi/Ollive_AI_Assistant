@@ -1,0 +1,7 @@
+openai
+huggingface_hub
+gradio
+python-dotenv
+pandas
+requests
+matplotlib
