@@ -15,6 +15,7 @@ license: mit
 Developed by **Sushantmani Tripathi**  
 GitHub: [SushantmaniTripathi](https://github.com/SushantmaniTripathi)  
 HF Space: [Sushant-Tripathi04/oss-assistant](https://huggingface.co/spaces/Sushant-Tripathi04/oss-assistant)
+Evaluation_Pdf:  ai-assistant-project/eval_report.pdf
 
 ## 🌟 Overview
 This project implements and evaluates two AI assistants:
